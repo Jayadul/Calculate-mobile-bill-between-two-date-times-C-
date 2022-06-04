@@ -9,7 +9,7 @@ Off-peak Hour: 12.00.00 am to 8.59.59 am and 11.00.00 pm to 11.59.59 pm
 
 Note: If pulse overlap (peak to off-peak or off-peak to peak) then take peak hour rate for that pulse.
 
-# Sample input:  
+### Sample input:  
 Start time: 2019-08-31 08:59:13 am
 End time: 2019-08-31 09:00:39 am
 
@@ -20,4 +20,4 @@ Breakdown (Optional to show):
 2019-09-31 09:00:16 + 20 second (2019-09-31 09:00:36) = 30 paisa
 2019-09-31 09:00:37 + 3 second (2019-09-31 09:00:39) = 30 paisa
 
-# Sample output: 1.3 taka
+### Sample output: 1.3 taka
